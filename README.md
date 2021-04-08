@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋
+Thanks for visiting my github. I am a final year student of informatics engineering. I am curious about anything related to technology. I did an internship as a backend developer, but now I'm trying to explore front end and machine learning. I'm also interested in the stock market and I'm doing my own research using Python, hopefully applying machine learning to the stock market. 
 <!--
 **aw09/aw09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
