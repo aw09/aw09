@@ -1,5 +1,5 @@
 ### Hello there 👋
-##### Thanks for visiting my github :satisfied: <br>
+##### Thank you for visiting my github :satisfied: <br>
 I am a final year student of informatics engineering. I am curious about anything related to technology :computer:<br/>I did an internship as a *backend developer*, but now I'm trying to explore Front End and *Machine Learning*. I'm also interested in the stock market and I'm doing my own research using **Python**, hopefully applying machine learning to the stock market. 
 
 
